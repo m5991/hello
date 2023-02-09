@@ -2,6 +2,8 @@
 
 Soy Manuel Gastelum, estudio la Maestría en Ciencia de Los Datos y soy Ingeniero Químico. Me gustan los rompecabezas y la tecnología. 
 
+![](https://media.giphy.com/media/888R35MJTmDxQfRzfS/giphy.gif)
+
 *[Source: GIPHY](https://media.giphy.com/media/888R35MJTmDxQfRzfS/giphy.gif)*
 
 La sección de Referencias de este repositorio las encontrarás en [este link](docs/Referencias.md).
