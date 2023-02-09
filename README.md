@@ -4,6 +4,8 @@ Soy Manuel Gastelum, estudio la Maestría en Ciencia de Los Datos y soy Ingenier
 
 *[Source: GIPHY](https://media.giphy.com/media/888R35MJTmDxQfRzfS/giphy.gif)*
 
+La sección de Referencias de este repositorio las encontrarás en [este link](docs/Referencias.md).
+
 <br>
 Maestría en Ciencia de Datos de Posgrados CUCEA de la Universidad de Guadalajara.  
 
