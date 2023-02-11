@@ -2,6 +2,10 @@
 
 Soy Manuel Gastelum, estudio la Maestría en Ciencia de Los Datos y soy Ingeniero Químico. Me gustan los rompecabezas y la tecnología. 
 
+
+Hola Manuel, mucho gusto. Yo soy César y actualmente tambien estoy estudiando la Maestria en Ciencia de datos, ojala podamos coincidir y compartir
+conocimientos
+
 ![](https://media.giphy.com/media/888R35MJTmDxQfRzfS/giphy.gif)
 
 *[Source: GIPHY](https://media.giphy.com/media/888R35MJTmDxQfRzfS/giphy.gif)*
